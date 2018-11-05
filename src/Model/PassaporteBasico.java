@@ -1,4 +1,7 @@
+package Model;
 import java.util.GregorianCalendar;
+
+import Interface.Passaporte;
 
 public class PassaporteBasico implements Passaporte {
 	private String nomeCliente;
